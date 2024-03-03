@@ -1,4 +1,4 @@
-data-vue-ssr-id="44e936f8:0 1a73ea6b:0 28d6037c:0 72f44750:0 452d9a94:0 463f5632:0 626231ea:0 6ee6a53a:0 5397a961:0 5b4658f0:0 0ee064c0:0 bb9a174a:0 a2402542:0">
+/* data-vue-ssr-id="44e936f8:0 1a73ea6b:0 28d6037c:0 72f44750:0 452d9a94:0 463f5632:0 626231ea:0 6ee6a53a:0 5397a961:0 5b4658f0:0 0ee064c0:0 bb9a174a:0 a2402542:0"> */
 #__layout,
 #__nuxt,
 body,
@@ -12,7 +12,7 @@ html {
   user-select: none;
   -o-user-select: none;
   margin: auto;
-  background: #050c19
+  background: #050c19;
 }
 
 #__layout ::-webkit-scrollbar,
