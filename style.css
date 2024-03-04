@@ -46,6 +46,8 @@ body {
   transition: all .3s ease
 }
 
+
+
 .nuxt-progress {
   position: fixed;
   top: 0;
@@ -218,7 +220,7 @@ body {
 @media(max-width:1199px) {
   .nav-desktop[data-v-44f2d4ae] {
     padding-left: 1rem;
-    padding-right: 5rem
+    padding-right: 1rem;
   }
 
   .nav-desktop .item[data-v-44f2d4ae] {
